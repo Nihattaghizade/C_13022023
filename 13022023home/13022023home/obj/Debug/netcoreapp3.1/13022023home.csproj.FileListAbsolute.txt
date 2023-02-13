@@ -1,0 +1,14 @@
+C:\Users\99450\source\repos\13022023home\13022023home\obj\Debug\netcoreapp3.1\13022023home.csproj.AssemblyReference.cache
+C:\Users\99450\source\repos\13022023home\13022023home\obj\Debug\netcoreapp3.1\13022023home.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99450\source\repos\13022023home\13022023home\obj\Debug\netcoreapp3.1\13022023home.AssemblyInfoInputs.cache
+C:\Users\99450\source\repos\13022023home\13022023home\obj\Debug\netcoreapp3.1\13022023home.AssemblyInfo.cs
+C:\Users\99450\source\repos\13022023home\13022023home\obj\Debug\netcoreapp3.1\13022023home.csproj.CoreCompileInputs.cache
+C:\Users\99450\source\repos\13022023home\13022023home\bin\Debug\netcoreapp3.1\13022023home.exe
+C:\Users\99450\source\repos\13022023home\13022023home\bin\Debug\netcoreapp3.1\13022023home.deps.json
+C:\Users\99450\source\repos\13022023home\13022023home\bin\Debug\netcoreapp3.1\13022023home.runtimeconfig.json
+C:\Users\99450\source\repos\13022023home\13022023home\bin\Debug\netcoreapp3.1\13022023home.runtimeconfig.dev.json
+C:\Users\99450\source\repos\13022023home\13022023home\bin\Debug\netcoreapp3.1\13022023home.dll
+C:\Users\99450\source\repos\13022023home\13022023home\bin\Debug\netcoreapp3.1\13022023home.pdb
+C:\Users\99450\source\repos\13022023home\13022023home\obj\Debug\netcoreapp3.1\13022023home.dll
+C:\Users\99450\source\repos\13022023home\13022023home\obj\Debug\netcoreapp3.1\13022023home.pdb
+C:\Users\99450\source\repos\13022023home\13022023home\obj\Debug\netcoreapp3.1\13022023home.genruntimeconfig.cache
